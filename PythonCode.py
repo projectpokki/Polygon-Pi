@@ -1,4 +1,4 @@
-iterations = 30
+iterations = 30 #change this to change iteration count
 
 area = 2 * (2 ** 0.5)
 bN = (2 ** 0.5)
